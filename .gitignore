@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Vim
+*.swp
+*.swo
+
+# Sublime Text
+*.sublime-workspace
+
+# Emacs
+*~
+
+# Node.js
+node_modules/
+
+# General build directories
+target/
+build/
+dist/
