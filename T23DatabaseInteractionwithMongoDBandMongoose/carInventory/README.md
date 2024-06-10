@@ -25,6 +25,7 @@ The backend is using Express and the frontend is using React.
 - [Usage](#usage)
   - [Starting the Backend Server](#starting-the-backend-server)
   - [Starting the Frontend Development Server](#starting-the-frontend-development-server)
+  - [Using the Application](#using-the-application)
 - [Credits](#credits)
 - [Notes](#notes)
 
@@ -116,6 +117,35 @@ To run this project locally, you need the following installed:
     This starts the React development server with hot reloading enabled by default.
 
 2. **Open your web browser and navigate to `http://localhost:3000`.**
+
+#### Using the Application
+
+1. **Landing Page**
+
+<img width="995" alt="Landing_page" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/bbc0de09-89d8-495a-8f6a-f960228139c6">
+
+2. **Add cars**
+
+<img width="955" alt="Add" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/bf25fe9e-749e-4ed0-8932-7253e1885f20">
+
+
+3. **Edit single car**
+   
+<img width="1029" alt="SingleEdit" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/9824f218-966b-4235-aa76-c67aee6e0e93">
+
+
+4. **Edit multiple cars**
+
+<img width="1049" alt="MultipleEdit" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/bdce2e2a-8570-4e82-ae7d-d8e774494527">
+
+5. **Find cars older than 5 years**
+
+<img width="988" alt="Oldercars02" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/cc0e1f25-a71a-4431-a750-136747186a6d">
+
+6. **Delete a car**
+
+<img width="1011" alt="delete" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/a7651c50-22fc-46cf-a8bd-4aa3c94ccd3f">
+
 
 ### Credits
 
