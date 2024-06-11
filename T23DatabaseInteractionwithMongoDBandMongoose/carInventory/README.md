@@ -128,11 +128,9 @@ To run this project locally, you need the following installed:
 
 <img width="955" alt="Add" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/bf25fe9e-749e-4ed0-8932-7253e1885f20">
 
-
 3. **Edit single car**
-   
-<img width="1029" alt="SingleEdit" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/9824f218-966b-4235-aa76-c67aee6e0e93">
 
+<img width="1029" alt="SingleEdit" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/9824f218-966b-4235-aa76-c67aee6e0e93">
 
 4. **Edit multiple cars**
 
@@ -145,7 +143,6 @@ To run this project locally, you need the following installed:
 6. **Delete a car**
 
 <img width="1011" alt="delete" src="https://github.com/NodokaHirata/codingTasks/assets/101855937/a7651c50-22fc-46cf-a8bd-4aa3c94ccd3f">
-
 
 ### Credits
 
