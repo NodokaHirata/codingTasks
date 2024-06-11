@@ -152,4 +152,4 @@ This project was developed by Nodoka Hirata Matthews.
 
 - This project uses MongoDB Atlas for the database, so there is no need to install MongoDB locally. The connection to MongoDB Atlas is managed through Mongoose.
 - Make sure to replace the `MONGODB_URI` in `backend/.env` with your actual MongoDB Atlas connection string.
-- - The default backend server runs on port 1234. You can change this by modifying the `PORT` variable in `backend/.env`.
+- The default backend server runs on port 1234. You can change this by modifying the `PORT` variable in `backend/.env`.
